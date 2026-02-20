@@ -13,3 +13,5 @@ OWP2 is the successor to OWP. The original project was overly ambitious for an i
 - Engine: Since we're starting over anyways, we're switching to Unity 6 for it's improved URP pipeline and new tools.
 
 This is an extremely complex and ambitious project, but these changes should make it more manageable and elevate what I as a solo-developer can achieve.
+
+Project Board: https://boards.superthread.com/b/2ee4b8a1-5491-489c-b7c1-fd01ca2ee100
